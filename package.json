@@ -1,0 +1,31 @@
+{
+  "name": "recursion-combinations",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliviacarlisle/recursion-combinations.git"
+  },
+  "author": "Olivia Carlisle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliviacarlisle/recursion-combinations/issues"
+  },
+  "homepage": "https://github.com/oliviacarlisle/recursion-combinations#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.15.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.3.3"
+  }
+}
